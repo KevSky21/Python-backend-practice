@@ -1,4 +1,4 @@
-from practice_main import Person
+from person import Person
 
 def prompt():
     print(f"Please enter your name, age, and gender.")
